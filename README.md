@@ -15,7 +15,7 @@ In this project, I built and trained a **neural network** model to classify tumo
 - Neural network model built with Keras/TensorFlow.
 - Evaluation on test data using accuracy and confusion matrix.
 
-📁 _Notebook: Machine-Learning/Breast_Cancer_Classification_with_Neural_Network.ipynb
+📁 _Notebook: ['Breast_Cancer_Classification_with_Neural_Network.ipynb](https://colab.research.google.com/drive/1xXF5v8x1spu4bsQvjidIeeagmBoBo3OY?usp=drive_link)
 
 ---
 
@@ -28,7 +28,7 @@ This binary classification problem involved detecting fraudulent transactions us
 - Logistic regression modeling.
 - Performance evaluated using confusion matrix, ROC curve, and classification report.
 
-📁 _Notebook: Machine-Learning/Credit_Card_Fraud_Detection.ipynb
+📁 _Notebook: [Machine-Learning/Credit_Card_Fraud_Detection.ipynb](https://colab.research.google.com/drive/1sJX_RzcYLYxLDPPFX9TzA_WC3KKozuGN?usp=drive_link)
 
 ---
 
@@ -41,7 +41,7 @@ In this regression-based project, I developed a **Random Forest Regressor** to p
 - Model training using Random Forest.
 - Evaluation with RMSE and R² score.
 
-📁 _Notebook: Machine-Learning/Gold_Price_Prediction.ipynb
+📁 _Notebook: [Machine-Learning/Gold_Price_Prediction.ipynb](https://colab.research.google.com/drive/1mFhF1xyDetaf-UpHvH89QBJ8foxoDR5d?usp=drive_link)
 
 ---
 
